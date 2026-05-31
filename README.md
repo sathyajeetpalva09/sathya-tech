@@ -5,19 +5,13 @@
 # Sathyajeet P Alva
 
 **Electronics & Communication Engineering · MS Ramaiah Institute of Technology**  
-`CGPA 8.5` &nbsp;·&nbsp; `IEEE RAS — Vice Treasurer` &nbsp;·&nbsp; `Studio RIT — Design Core`
+ &nbsp;·&nbsp `IEEE RAS — Vice Treasurer` &nbsp;·&nbsp; `Studio RIT — Design Core`
 
 <br/>
 
 > *Building intelligent systems by bridging hardware and software —*  
 > *to solve real-world problems and bring change to society.*
 
-<br/>
-
-![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-00979D?style=flat-square&logoColor=white)
-![Robotics](https://img.shields.io/badge/Robotics-5C3EE8?style=flat-square&logoColor=white)
-![Edge AI](https://img.shields.io/badge/Edge%20AI-F05033?style=flat-square&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%2FML-013243?style=flat-square&logoColor=white)
 
 <br/>
 
